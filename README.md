@@ -1,2 +1,2 @@
-# hello-world
-Completely new to the industry.
+# Yessir
+JS Practice
